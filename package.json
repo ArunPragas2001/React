@@ -1,0 +1,19 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "\"react introduction\"",
+  "homepage": "https://github.com/ArunPragas2001/React#readme",
+  "bugs": {
+    "url": "https://github.com/ArunPragas2001/React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArunPragas2001/React.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
